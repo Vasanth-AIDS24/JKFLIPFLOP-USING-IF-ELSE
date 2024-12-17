@@ -66,11 +66,10 @@ endmodule
 ```
 ![image](https://github.com/user-attachments/assets/014cbed7-a0b3-49ab-a6be-66e1f2bc95a9)
 
-
+```
  Developed by:Vasanth P
  RegisterNumber:24900136
-
-
+```
 **RTL LOGIC FOR FLIPFLOPS**
 ```
 JK FLIP FLOP:
