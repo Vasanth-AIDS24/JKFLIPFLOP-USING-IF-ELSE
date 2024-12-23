@@ -81,7 +81,8 @@ JK FLIP FLOP:
 ```
 JK FLIP FLOP
 ```
-![image](https://github.com/user-attachments/assets/946d77c4-a7eb-43f5-b8a1-2390e9d6d7b6)
+![image](https://github.com/user-attachments/assets/f491c9c5-6578-4c29-a10f-34662f109f30)
+
 
 
 **RESULTS**
